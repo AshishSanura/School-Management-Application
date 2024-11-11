@@ -1,0 +1,12 @@
+/node_modules
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.example
+/.vscode
+.htaccess
+/.htaccess
+./.htaccess
+composer.lock
+package-lock.json
