@@ -1,6 +1,12 @@
-1. Add .env file.
-2. Add .env file after run command (composer update)
-3. composer update after pls run command (php artisan migrate) after 4 point command run
-4. migration run succesfully after database setup done after run command(php artisn db:seed).
+1. git clone git@github.com:AshishSanura/School-Management-Application.git(project SSH url)
+2. cd School-Management-Application
+3. Add .env file in root folder setup database & mail send details.
+4. public folder under add .htaccess
+5. run command composer
+6. Add .env file after run command (php artisan migrate & php artisan db:seed)
 
-Note:- Pls Add Mail sedning details (.env file) after mail send funcnality work
+Note:- Above step follow to run project.
+
+Admin Login:-
+=>Email:- admin@gmail.com
+=>Password:- Admin@12345
